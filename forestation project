@@ -1,8 +1,3 @@
-Steps to Complete
- 
- 
-1. Create a View called “forestation” by joining all three tables - forest_area, land_area and regions in the workspace.
- 
 DROP VIEW IF EXISTS forestation;
 
 CREATE VIEW forestation
